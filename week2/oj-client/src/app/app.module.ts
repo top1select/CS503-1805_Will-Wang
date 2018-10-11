@@ -9,7 +9,7 @@ import { ProblemDetailComponent } from './components/problem-detail/problem-deta
 
 import { routing } from './app.routes';
 import { NewProblemComponent } from './components/new-problem/new-problem.component';
-import { EditorComponent } from './editor/editor.component';
+import { EditorComponent } from './components/editor/editor.component';
 
 @NgModule({
   declarations: [
